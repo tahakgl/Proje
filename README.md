@@ -14,12 +14,6 @@ Bu proje, *Talibinden* adlı web sitesinin CodeIgniter altyapısına geçirilmes
 - *Veritabanı:* MySQL, MongoDB  
 - *Destekleyici Araçlar:* Gerekli durumlarda ek diller ve kütüphaneler  
 
-## 👥 Ekip Üyeleri  
-- Muhammet Taha Akgül - 2313201028  
-- Murat Bilgilioğlu - 2313201042  
-- Elanur Yılmaz - 2313201032
-- Mert Arda Serdar - 2313201030
-
 ## 🚀 Başlangıç  
  - Güncellenecek.
 
